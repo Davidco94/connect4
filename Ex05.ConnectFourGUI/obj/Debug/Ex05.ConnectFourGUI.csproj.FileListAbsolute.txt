@@ -12,3 +12,4 @@ C:\Users\david\Desktop\Connect-Four-main\Ex05.ConnectFourGUI\obj\Debug\Ex05.Conn
 C:\Users\david\Desktop\Connect-Four-main\Ex05.ConnectFourGUI\obj\Debug\Ex05.ConnectFourGUI.exe
 C:\Users\david\Desktop\Connect-Four-main\Ex05.ConnectFourGUI\obj\Debug\Ex05.ConnectFourGUI.pdb
 C:\Users\david\Desktop\Connect-Four-main\Ex05.ConnectFourGUI\obj\Debug\Ex05.ConnectFourGUI.Resources.resources
+C:\Users\david\Desktop\Connect-Four-main\Ex05.ConnectFourGUI\obj\Debug\Ex05.ConnectFourGUI.SettingsForm.resources

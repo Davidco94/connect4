@@ -9,7 +9,7 @@ namespace Ex05.ConnectFourGUI
 
     public partial class ConnectFourForm : Form
     {
-        private const string k_GameTitle = "Connect Four!!";
+        private const string k_GameTitle = "Connect-4";
         private const int k_DropButtonHeight = 17;
         private const int k_DropButtonWidth = BoardButton.k_ButtonSize;
         private readonly GameEngine r_TheGame;

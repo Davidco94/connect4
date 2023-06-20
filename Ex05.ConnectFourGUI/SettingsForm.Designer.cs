@@ -40,8 +40,6 @@ namespace Ex05.ConnectFourGUI
             this.textBoxPlayer1Name = new System.Windows.Forms.TextBox();
             this.textBoxPlayer2Name = new System.Windows.Forms.TextBox();
             this.buttonDone = new System.Windows.Forms.Button();
-            this.checkBoxHelpMode = new System.Windows.Forms.CheckBox();
-            this.label5 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -154,42 +152,19 @@ namespace Ex05.ConnectFourGUI
             // buttonDone
             // 
             this.buttonDone.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(177)));
-            this.buttonDone.Location = new System.Drawing.Point(271, 316);
+            this.buttonDone.Location = new System.Drawing.Point(97, 316);
             this.buttonDone.Name = "buttonDone";
-            this.buttonDone.Size = new System.Drawing.Size(117, 42);
+            this.buttonDone.Size = new System.Drawing.Size(187, 36);
             this.buttonDone.TabIndex = 10;
-            this.buttonDone.Text = "Done";
+            this.buttonDone.Text = "Start";
             this.buttonDone.UseVisualStyleBackColor = true;
             this.buttonDone.Click += new System.EventHandler(this.buttonDone_Click);
             // 
-            // checkBoxHelpMode
-            // 
-            this.checkBoxHelpMode.AutoSize = true;
-            this.checkBoxHelpMode.Location = new System.Drawing.Point(24, 316);
-            this.checkBoxHelpMode.Name = "checkBoxHelpMode";
-            this.checkBoxHelpMode.Size = new System.Drawing.Size(22, 21);
-            this.checkBoxHelpMode.TabIndex = 11;
-            this.checkBoxHelpMode.TextAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.checkBoxHelpMode.UseVisualStyleBackColor = true;
-            this.checkBoxHelpMode.CheckedChanged += new System.EventHandler(this.checkBoxHelpMode_CheckedChanged);
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(177)));
-            this.label5.Location = new System.Drawing.Point(52, 313);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(107, 25);
-            this.label5.TabIndex = 12;
-            this.label5.Text = "Help Mode";
-            // 
-            // FormGameSettings
+            // SettingsForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(415, 383);
-            this.Controls.Add(this.label5);
-            this.Controls.Add(this.checkBoxHelpMode);
             this.Controls.Add(this.buttonDone);
             this.Controls.Add(this.textBoxPlayer2Name);
             this.Controls.Add(this.textBoxPlayer1Name);
@@ -203,7 +178,7 @@ namespace Ex05.ConnectFourGUI
             this.Controls.Add(this.label1);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
-            this.Name = "FormGameSettings";
+            this.Name = "SettingsForm";
             this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Hide;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "Game Settings";
@@ -225,7 +200,5 @@ namespace Ex05.ConnectFourGUI
         private System.Windows.Forms.TextBox textBoxPlayer1Name;
         private System.Windows.Forms.TextBox textBoxPlayer2Name;
         private System.Windows.Forms.Button buttonDone;
-        private System.Windows.Forms.CheckBox checkBoxHelpMode;
-        private System.Windows.Forms.Label label5;
     }
 }

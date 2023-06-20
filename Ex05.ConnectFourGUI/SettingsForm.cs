@@ -12,12 +12,14 @@ namespace Ex05.ConnectFourGUI
 {
     public partial class SettingsForm : Form
     {
+        private const string k_ComputerName = "[Computer]";
+
         private string m_Player1Name;
         private string m_Player2Name;
         private int m_BoardSize;
         private bool m_PlayAgainstComputer = true;
         private bool m_DoneButtonWasClicked = false;
-        private bool m_HelpMode = false;
+
 
         public SettingsForm()
         {
@@ -56,15 +58,13 @@ namespace Ex05.ConnectFourGUI
             out string o_Player1Name,
             out string o_Player2Name,
             out bool o_PlayAgainstComputer,
-            out bool o_DoneButtonClicked,
-            out bool o_HelpMode)
+            out bool o_DoneButtonClicked)
         {
             o_DoneButtonClicked = m_DoneButtonWasClicked;
             o_Player1Name = m_Player1Name;
             o_Player2Name = m_Player2Name;
             o_BoardSize = m_BoardSize;
             o_PlayAgainstComputer = m_PlayAgainstComputer;
-            o_HelpMode = m_HelpMode;
         }
 
         private void checkBoxPlayer2_Click(object sender, EventArgs e)
@@ -78,8 +78,7 @@ namespace Ex05.ConnectFourGUI
             else
             {
                 textBoxPlayer2Name.Enabled = false;
-                // $G$ NTT-999 (-3) You should have used constants here
-                textBoxPlayer2Name.Text = "[Computer]";
+                textBoxPlayer2Name.Text = k_ComputerName;
                 m_PlayAgainstComputer = true;
             }
         }
@@ -148,17 +147,6 @@ namespace Ex05.ConnectFourGUI
             e.Handled = !(char.IsLetter(e.KeyChar) || e.KeyChar == (char)Keys.Back);
         }
 
-        private void checkBoxHelpMode_CheckedChanged(object sender, EventArgs e)
-        {
-            if (checkBoxHelpMode.Checked)
-            {
-                m_HelpMode = true;
-            }
-            else
-            {
-                m_HelpMode = false;
-            }
-        }
     }
 }
 
