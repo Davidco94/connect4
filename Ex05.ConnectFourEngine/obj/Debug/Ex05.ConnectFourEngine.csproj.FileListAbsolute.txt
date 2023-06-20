@@ -1,0 +1,13 @@
+C:\Users\Daniel\Desktop\Code\C#\C21 Ex05 DanielMalky 318570462 MorYaakov 319092912\Ex05.ConnectFourEngine\bin\Debug\Ex05.ConnectFourEngine.dll.config
+C:\Users\Daniel\Desktop\Code\C#\C21 Ex05 DanielMalky 318570462 MorYaakov 319092912\Ex05.ConnectFourEngine\bin\Debug\Ex05.ConnectFourEngine.dll
+C:\Users\Daniel\Desktop\Code\C#\C21 Ex05 DanielMalky 318570462 MorYaakov 319092912\Ex05.ConnectFourEngine\bin\Debug\Ex05.ConnectFourEngine.pdb
+C:\Users\Daniel\Desktop\Code\C#\C21 Ex05 DanielMalky 318570462 MorYaakov 319092912\Ex05.ConnectFourEngine\obj\Debug\Ex05.ConnectFourEngine.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\Code\C#\C21 Ex05 DanielMalky 318570462 MorYaakov 319092912\Ex05.ConnectFourEngine\obj\Debug\Ex05.ConnectFourEngine.dll
+C:\Users\Daniel\Desktop\Code\C#\C21 Ex05 DanielMalky 318570462 MorYaakov 319092912\Ex05.ConnectFourEngine\obj\Debug\Ex05.ConnectFourEngine.pdb
+C:\Users\david\Desktop\Connect-Four-main\Ex05.ConnectFourEngine\bin\Debug\Ex05.ConnectFourEngine.dll.config
+C:\Users\david\Desktop\Connect-Four-main\Ex05.ConnectFourEngine\bin\Debug\Ex05.ConnectFourEngine.dll
+C:\Users\david\Desktop\Connect-Four-main\Ex05.ConnectFourEngine\bin\Debug\Ex05.ConnectFourEngine.pdb
+C:\Users\david\Desktop\Connect-Four-main\Ex05.ConnectFourEngine\obj\Debug\Ex05.ConnectFourEngine.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\Connect-Four-main\Ex05.ConnectFourEngine\obj\Debug\Ex05.ConnectFourEngine.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Connect-Four-main\Ex05.ConnectFourEngine\obj\Debug\Ex05.ConnectFourEngine.dll
+C:\Users\david\Desktop\Connect-Four-main\Ex05.ConnectFourEngine\obj\Debug\Ex05.ConnectFourEngine.pdb

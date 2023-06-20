@@ -1,0 +1,14 @@
+C:\Users\david\Desktop\Connect-Four-main\Ex05.ConnectFourGUI\obj\Debug\Ex05.ConnectFourGUI.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\Connect-Four-main\Ex05.ConnectFourGUI\bin\Debug\Ex05.ConnectFourGUI.exe.config
+C:\Users\david\Desktop\Connect-Four-main\Ex05.ConnectFourGUI\bin\Debug\Ex05.ConnectFourGUI.exe
+C:\Users\david\Desktop\Connect-Four-main\Ex05.ConnectFourGUI\bin\Debug\Ex05.ConnectFourGUI.pdb
+C:\Users\david\Desktop\Connect-Four-main\Ex05.ConnectFourGUI\bin\Debug\Ex05.ConnectFourEngine.dll
+C:\Users\david\Desktop\Connect-Four-main\Ex05.ConnectFourGUI\bin\Debug\Ex05.ConnectFourEngine.pdb
+C:\Users\david\Desktop\Connect-Four-main\Ex05.ConnectFourGUI\bin\Debug\Ex05.ConnectFourEngine.dll.config
+C:\Users\david\Desktop\Connect-Four-main\Ex05.ConnectFourGUI\obj\Debug\Ex05.ConnectFourGUI.BoardButton.resources
+C:\Users\david\Desktop\Connect-Four-main\Ex05.ConnectFourGUI\obj\Debug\Ex05.ConnectFourGUI.csproj.GenerateResource.cache
+C:\Users\david\Desktop\Connect-Four-main\Ex05.ConnectFourGUI\obj\Debug\Ex05.ConnectFourGUI.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Connect-Four-main\Ex05.ConnectFourGUI\obj\Debug\Ex05.ConnectFourGUI.csproj.CopyComplete
+C:\Users\david\Desktop\Connect-Four-main\Ex05.ConnectFourGUI\obj\Debug\Ex05.ConnectFourGUI.exe
+C:\Users\david\Desktop\Connect-Four-main\Ex05.ConnectFourGUI\obj\Debug\Ex05.ConnectFourGUI.pdb
+C:\Users\david\Desktop\Connect-Four-main\Ex05.ConnectFourGUI\obj\Debug\Ex05.ConnectFourGUI.Resources.resources
